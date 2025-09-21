@@ -12,6 +12,7 @@ Test Case Design & Development
 Well-structured test cases with clear steps, expected results, and actual results.
 
 Coverage of various testing scenarios including functional, UI, and exploratory testing.
+
 <img width="1366" height="768" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/ac4fa9fb-5e9d-4e37-b9bf-9888a0f8ad90" />
 
 
