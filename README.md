@@ -47,9 +47,9 @@ Test Plan PDF
 Comprehensive test plan including scope, objectives, resources, schedule, risks, and deliverables.
 
 Provides a clear overview of the testing strategy and execution plan.
-![1  TestPlan_Fuzayel_page-0002](https://github.com/user-attachments/assets/3fc05b79-d3f8-4084-9457-2a3b41a3619b)
-![1  TestPlan_Fuzayel_page-0001](https://github.com/user-attachments/assets/90ffa7b6-dd91-477f-ab11-3b1b873a0edf)
 
+![1  TestPlan_Fuzayel_page-0001](https://github.com/user-attachments/assets/90ffa7b6-dd91-477f-ab11-3b1b873a0edf)
+![1  TestPlan_Fuzayel_page-0002](https://github.com/user-attachments/assets/3fc05b79-d3f8-4084-9457-2a3b41a3619b)
 
 🛠 Skills Demonstrated
 
