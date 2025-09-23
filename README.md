@@ -23,6 +23,7 @@ Detailed defect reports using real-world examples.
 Categorization of bugs based on severity, priority, and status.
 
 Screenshots and steps to reproduce bugs.
+
 <img width="1366" height="768" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/2c012a53-0370-4792-9d8e-58a0bf73a68a" />
 
 
