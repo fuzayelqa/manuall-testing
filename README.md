@@ -3,7 +3,7 @@ Manual Testing &amp; QA Documentation
 
 Welcome to my Manual Testing & QA Documentation Repository. This repository demonstrates my hands-on experience in manual testing, including test case design, execution, defect reporting, mind mapping, Jira reporting, and test plan creation.
 
-**📌 Repository Contents** 
+**📌 Repository Contents**  
  
 This repository includes the following materials:
 
